@@ -1,4 +1,4 @@
-#  simple microprocessor 
+# Simple microprocessor 
 
 Simple nanoprocessor capable of executing a simple set of instructions.
 
