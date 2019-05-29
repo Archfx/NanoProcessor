@@ -1,0 +1,765 @@
+V3 390
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/AddSubUnit.vhf 2016/12/08.12:45:47 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Add_3.vhf 2016/12/08.14:17:02 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Add_Sub_Select.vhf 2016/12/08.11:29:58 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Bit4_Connector.vhf 2016/12/08.11:29:58 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Bus_Buffer.vhf 2016/12/08.14:39:20 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Decoder_3_to_8.vhf 2016/12/07.12:14:00 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Decoder_In.vhf 2016/12/08.11:29:57 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/FA.vhf 2016/12/08.12:45:47 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/HA.vhf 2016/12/08.12:45:47 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Instruction_Decoder.vhf 2016/12/08.11:31:39 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/In_Out_Connector.vhf 2016/12/08.11:29:57 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Jump_Reg.vhf 2016/12/08.11:29:58 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Load_Select.vhf 2016/12/08.11:29:58 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Mux_2Way_3Bit.vhf 2016/12/08.12:45:44 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Mux_2Way_4Bit.vhf 2016/12/08.12:45:44 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/MUX_2_to_1.vhf 2016/12/08.12:45:44 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Mux_8Way_4Bit.vhf 2016/12/07.12:14:00 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/MUX_8_to_1.vhf 2016/12/07.12:14:00 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/NanoProcessor.vhf 2016/12/08.14:39:22 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/ProgramRom.vhf 2016/12/08.15:23:48 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Program_counter.vhf 2016/12/08.12:45:44 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/regBank.vhf 2016/12/08.14:21:22 P.20131013
+FL C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/reg_4bit.vhf 2016/12/08.14:00:04 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/AddSubUnit.vhf" 2016/12/08.12:45:47 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Add_3.vhf" 2016/12/12.20:32:26 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Add_Sub_Select.vhf" 2016/12/08.11:29:58 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Bit4_Connector.vhf" 2016/12/08.11:29:58 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Decoder_3_to_8.vhf" 2016/12/07.12:14:00 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Decoder_In.vhf" 2016/12/08.11:29:57 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/FA.vhf" 2016/12/08.12:45:47 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/HA.vhf" 2016/12/08.12:45:47 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Instruction_Decoder.vhf" 2016/12/08.11:31:39 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/In_Out_Connector.vhf" 2016/12/08.11:29:57 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Jump_Reg.vhf" 2016/12/08.11:29:58 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Load_Select.vhf" 2016/12/08.11:29:58 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Mux_2Way_3Bit.vhf" 2016/12/08.12:45:44 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Mux_2Way_4Bit.vhf" 2016/12/08.12:45:44 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/MUX_2_to_1.vhf" 2016/12/08.12:45:44 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Mux_8Way_4Bit.vhf" 2016/12/07.12:14:00 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/MUX_8_to_1.vhf" 2016/12/07.12:14:00 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/NanoProcessor.vhf" 2016/12/13.00:35:33 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/ProgramRom.vhf" 2016/12/08.15:47:39 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/Program_counter.vhf" 2016/12/12.23:47:03 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/regBank.vhf" 2016/12/08.14:21:22 P.20131013
+FL "G:/New folder/Final_nano/Lab9_10/reg_4bit.vhf" 2016/12/08.14:00:04 P.20131013
+FL "G:/New folder/Lab9_10/AddSubUnit.vhf" 2016/12/08.12:45:47 P.20131013
+FL "G:/New folder/Lab9_10/Add_3.vhf" 2016/12/12.20:32:26 P.20131013
+FL "G:/New folder/Lab9_10/Add_Sub_Select.vhf" 2016/12/08.11:29:58 P.20131013
+FL "G:/New folder/Lab9_10/Bit4_Connector.vhf" 2016/12/08.11:29:58 P.20131013
+FL "G:/New folder/Lab9_10/Decoder_3_to_8.vhf" 2016/12/07.12:14:00 P.20131013
+FL "G:/New folder/Lab9_10/Decoder_In.vhf" 2016/12/08.11:29:57 P.20131013
+FL "G:/New folder/Lab9_10/FA.vhf" 2016/12/08.12:45:47 P.20131013
+FL "G:/New folder/Lab9_10/HA.vhf" 2016/12/08.12:45:47 P.20131013
+FL "G:/New folder/Lab9_10/Instruction_Decoder.vhf" 2016/12/08.11:31:39 P.20131013
+FL "G:/New folder/Lab9_10/In_Out_Connector.vhf" 2016/12/08.11:29:57 P.20131013
+FL "G:/New folder/Lab9_10/Jump_Reg.vhf" 2016/12/08.11:29:58 P.20131013
+FL "G:/New folder/Lab9_10/Load_Select.vhf" 2016/12/08.11:29:58 P.20131013
+FL "G:/New folder/Lab9_10/Mux_2Way_3Bit.vhf" 2016/12/08.12:45:44 P.20131013
+FL "G:/New folder/Lab9_10/Mux_2Way_4Bit.vhf" 2016/12/08.12:45:44 P.20131013
+FL "G:/New folder/Lab9_10/MUX_2_to_1.vhf" 2016/12/08.12:45:44 P.20131013
+FL "G:/New folder/Lab9_10/Mux_8Way_4Bit.vhf" 2016/12/07.12:14:00 P.20131013
+FL "G:/New folder/Lab9_10/MUX_8_to_1.vhf" 2016/12/07.12:14:00 P.20131013
+FL "G:/New folder/Lab9_10/NanoProcessor.vhf" 2016/12/13.01:05:53 P.20131013
+FL "G:/New folder/Lab9_10/ProgramRom.vhf" 2016/12/08.15:47:39 P.20131013
+FL "G:/New folder/Lab9_10/Program_counter.vhf" 2016/12/12.23:47:03 P.20131013
+FL "G:/New folder/Lab9_10/regBank.vhf" 2016/12/08.14:21:22 P.20131013
+FL "G:/New folder/Lab9_10/reg_4bit.vhf" 2016/12/08.14:00:04 P.20131013
+FL "G:/New folder/Lab9_10final/AddSubUnit.vhf" 2016/12/08.12:45:47 P.20131013
+EN work/HA_MUSER_AddSubUnit 1481798522 \
+      FL "G:/New folder/Lab9_10final/AddSubUnit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/HA_MUSER_AddSubUnit/BEHAVIORAL 1481798523 \
+      FL "G:/New folder/Lab9_10final/AddSubUnit.vhf" EN work/HA_MUSER_AddSubUnit 1481798522 \
+      CP XOR2 CP AND2
+EN work/FA_MUSER_AddSubUnit 1481798524 \
+      FL "G:/New folder/Lab9_10final/AddSubUnit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/FA_MUSER_AddSubUnit/BEHAVIORAL 1481798525 \
+      FL "G:/New folder/Lab9_10final/AddSubUnit.vhf" EN work/FA_MUSER_AddSubUnit 1481798524 \
+      CP HA_MUSER_AddSubUnit CP OR2
+EN work/AddSubUnit 1481798526 \
+      FL "G:/New folder/Lab9_10final/AddSubUnit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/AddSubUnit/BEHAVIORAL 1481798527 \
+      FL "G:/New folder/Lab9_10final/AddSubUnit.vhf" EN work/AddSubUnit 1481798526 \
+      CP FA_MUSER_AddSubUnit CP XOR2
+FL "G:/New folder/Lab9_10final/Add_3.vhf" 2016/12/12.20:32:26 P.20131013
+EN work/HA_MUSER_Add_3 1481798528 FL "G:/New folder/Lab9_10final/Add_3.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/HA_MUSER_Add_3/BEHAVIORAL 1481798529 \
+      FL "G:/New folder/Lab9_10final/Add_3.vhf" EN work/HA_MUSER_Add_3 1481798528 \
+      CP XOR2 CP AND2
+EN work/FA_MUSER_Add_3 1481798530 \
+      FL "G:/New folder/Lab9_10final/Add_3.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/FA_MUSER_Add_3/BEHAVIORAL 1481798531 \
+      FL "G:/New folder/Lab9_10final/Add_3.vhf" EN work/FA_MUSER_Add_3 1481798530 \
+      CP HA_MUSER_Add_3 CP OR2
+EN work/Add_3 1481798532 \
+      FL "G:/New folder/Lab9_10final/Add_3.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Add_3/BEHAVIORAL 1481798533 \
+      FL "G:/New folder/Lab9_10final/Add_3.vhf" EN work/Add_3 1481798532 \
+      CP FA_MUSER_Add_3 CP GND CP INV
+FL "G:/New folder/Lab9_10final/Add_Sub_Select.vhf" 2016/12/08.11:29:58 P.20131013
+EN work/Add_Sub_Select 1481798584 \
+      FL "G:/New folder/Lab9_10final/Add_Sub_Select.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Add_Sub_Select/BEHAVIORAL 1481798585 \
+      FL "G:/New folder/Lab9_10final/Add_Sub_Select.vhf" EN work/Add_Sub_Select 1481798584 \
+      CP AND2 CP INV
+FL "G:/New folder/Lab9_10final/Bit4_Connector.vhf" 2016/12/08.11:29:58 P.20131013
+EN work/Bit4_Connector 1481798586 \
+      FL "G:/New folder/Lab9_10final/Bit4_Connector.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Bit4_Connector/BEHAVIORAL 1481798587 \
+      FL "G:/New folder/Lab9_10final/Bit4_Connector.vhf" EN work/Bit4_Connector 1481798586 \
+      CP BUF
+FL "G:/New folder/Lab9_10final/Bus_Buffer.vhf" 2016/12/08.14:39:20 P.20131013
+EN work/Bus_Buffer 1481798534 FL "G:/New folder/Lab9_10final/Bus_Buffer.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Bus_Buffer/BEHAVIORAL 1481798535 \
+      FL "G:/New folder/Lab9_10final/Bus_Buffer.vhf" EN work/Bus_Buffer 1481798534 \
+      CP BUF
+FL "G:/New folder/Lab9_10final/Decoder_3_to_8.vhf" 2016/12/07.12:14:00 P.20131013
+EN work/Decoder_2_to_4_MUSER_Decoder_3_to_8 1481798614 \
+      FL "G:/New folder/Lab9_10final/Decoder_3_to_8.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_Decoder_3_to_8/BEHAVIORAL 1481798615 \
+      FL "G:/New folder/Lab9_10final/Decoder_3_to_8.vhf" \
+      EN work/Decoder_2_to_4_MUSER_Decoder_3_to_8 1481798614 CP INV CP AND3
+EN work/Decoder_3_to_8 1481798616 \
+      FL "G:/New folder/Lab9_10final/Decoder_3_to_8.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8/BEHAVIORAL 1481798617 \
+      FL "G:/New folder/Lab9_10final/Decoder_3_to_8.vhf" EN work/Decoder_3_to_8 1481798616 \
+      CP Decoder_2_to_4_MUSER_Decoder_3_to_8 CP INV CP AND2
+FL "G:/New folder/Lab9_10final/Decoder_In.vhf" 2016/12/08.11:29:57 P.20131013
+EN work/Decoder_In 1481798588 FL "G:/New folder/Lab9_10final/Decoder_In.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_In/BEHAVIORAL 1481798589 \
+      FL "G:/New folder/Lab9_10final/Decoder_In.vhf" EN work/Decoder_In 1481798588 \
+      CP AND2
+FL "G:/New folder/Lab9_10final/FA.vhf" 2016/12/08.12:45:47 P.20131013
+EN work/HA_MUSER_FA 1481798590 FL "G:/New folder/Lab9_10final/FA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/HA_MUSER_FA/BEHAVIORAL 1481798591 \
+      FL "G:/New folder/Lab9_10final/FA.vhf" EN work/HA_MUSER_FA 1481798590 \
+      CP XOR2 CP AND2
+EN work/FA 1481798592 FL "G:/New folder/Lab9_10final/FA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/FA/BEHAVIORAL 1481798593 \
+      FL "G:/New folder/Lab9_10final/FA.vhf" EN work/FA 1481798592 CP HA_MUSER_FA \
+      CP OR2
+FL "G:/New folder/Lab9_10final/HA.vhf" 2016/12/08.12:45:47 P.20131013
+EN work/HA 1481798618 FL "G:/New folder/Lab9_10final/HA.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/HA/BEHAVIORAL 1481798619 \
+      FL "G:/New folder/Lab9_10final/HA.vhf" EN work/HA 1481798618 CP XOR2 CP AND2
+FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" 2016/12/08.11:31:39 P.20131013
+EN work/In_Out_Connector_MUSER_Instruction_Decoder 1481798536 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/In_Out_Connector_MUSER_Instruction_Decoder/BEHAVIORAL 1481798537 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      EN work/In_Out_Connector_MUSER_Instruction_Decoder 1481798536 CP BUF
+EN work/Bit4_Connector_MUSER_Instruction_Decoder 1481798538 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Bit4_Connector_MUSER_Instruction_Decoder/BEHAVIORAL 1481798539 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      EN work/Bit4_Connector_MUSER_Instruction_Decoder 1481798538 CP BUF
+EN work/AND6_MXILINX_Instruction_Decoder 1481798540 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/AND6_MXILINX_Instruction_Decoder/BEHAVIORAL 1481798541 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      EN work/AND6_MXILINX_Instruction_Decoder 1481798540 CP AND3 CP AND4 CP FMAP
+EN work/Jump_Reg_MUSER_Instruction_Decoder 1481798542 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Jump_Reg_MUSER_Instruction_Decoder/BEHAVIORAL 1481798543 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      EN work/Jump_Reg_MUSER_Instruction_Decoder 1481798542 \
+      CP AND6_MXILINX_Instruction_Decoder CP INV
+EN work/Add_Sub_Select_MUSER_Instruction_Decoder 1481798544 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Add_Sub_Select_MUSER_Instruction_Decoder/BEHAVIORAL 1481798545 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      EN work/Add_Sub_Select_MUSER_Instruction_Decoder 1481798544 CP AND2 CP INV
+EN work/Load_Select_MUSER_Instruction_Decoder 1481798546 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Load_Select_MUSER_Instruction_Decoder/BEHAVIORAL 1481798547 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      EN work/Load_Select_MUSER_Instruction_Decoder 1481798546 CP AND2 CP INV
+EN work/Decoder_In_MUSER_Instruction_Decoder 1481798548 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_In_MUSER_Instruction_Decoder/BEHAVIORAL 1481798549 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      EN work/Decoder_In_MUSER_Instruction_Decoder 1481798548 CP AND2
+EN work/Instruction_Decoder 1481798550 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Instruction_Decoder/BEHAVIORAL 1481798551 \
+      FL "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" \
+      EN work/Instruction_Decoder 1481798550 \
+      CP Decoder_In_MUSER_Instruction_Decoder \
+      CP Load_Select_MUSER_Instruction_Decoder \
+      CP Add_Sub_Select_MUSER_Instruction_Decoder \
+      CP Jump_Reg_MUSER_Instruction_Decoder \
+      CP In_Out_Connector_MUSER_Instruction_Decoder \
+      CP Bit4_Connector_MUSER_Instruction_Decoder
+FL "G:/New folder/Lab9_10final/In_Out_Connector.vhf" 2016/12/08.11:29:57 P.20131013
+EN work/In_Out_Connector 1481798594 \
+      FL "G:/New folder/Lab9_10final/In_Out_Connector.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/In_Out_Connector/BEHAVIORAL 1481798595 \
+      FL "G:/New folder/Lab9_10final/In_Out_Connector.vhf" \
+      EN work/In_Out_Connector 1481798594 CP BUF
+FL "G:/New folder/Lab9_10final/Jump_Reg.vhf" 2016/12/08.11:29:58 P.20131013
+EN work/AND6_MXILINX_Jump_Reg 1481798596 \
+      FL "G:/New folder/Lab9_10final/Jump_Reg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/AND6_MXILINX_Jump_Reg/BEHAVIORAL 1481798597 \
+      FL "G:/New folder/Lab9_10final/Jump_Reg.vhf" EN work/AND6_MXILINX_Jump_Reg 1481798596 \
+      CP AND3 CP AND4 CP FMAP
+EN work/Jump_Reg 1481798598 \
+      FL "G:/New folder/Lab9_10final/Jump_Reg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Jump_Reg/BEHAVIORAL 1481798599 \
+      FL "G:/New folder/Lab9_10final/Jump_Reg.vhf" EN work/Jump_Reg 1481798598 \
+      CP AND6_MXILINX_Jump_Reg CP INV
+FL "G:/New folder/Lab9_10final/Load_Select.vhf" 2016/12/08.11:29:58 P.20131013
+EN work/Load_Select 1481798600 FL "G:/New folder/Lab9_10final/Load_Select.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/Load_Select/BEHAVIORAL 1481798601 \
+      FL "G:/New folder/Lab9_10final/Load_Select.vhf" EN work/Load_Select 1481798600 \
+      CP AND2 CP INV
+FL "G:/New folder/Lab9_10final/LUT.vhf" 2016/12/15.01:03:08 P.20131013
+EN work/LUT 1481798552 FL "G:/New folder/Lab9_10final/LUT.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/LUT/BEHAVIORAL 1481798553 \
+      FL "G:/New folder/Lab9_10final/LUT.vhf" EN work/LUT 1481798552 CP ROM16X1
+FL "G:/New folder/Lab9_10final/Mux_2Way_3Bit.vhf" 2016/12/08.12:45:44 P.20131013
+EN work/MUX_2_to_1_MUSER_Mux_2Way_3Bit 1481798554 \
+      FL "G:/New folder/Lab9_10final/Mux_2Way_3Bit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/MUX_2_to_1_MUSER_Mux_2Way_3Bit/BEHAVIORAL 1481798555 \
+      FL "G:/New folder/Lab9_10final/Mux_2Way_3Bit.vhf" \
+      EN work/MUX_2_to_1_MUSER_Mux_2Way_3Bit 1481798554 CP AND2 CP OR2 CP INV
+EN work/Mux_2Way_3Bit 1481798556 \
+      FL "G:/New folder/Lab9_10final/Mux_2Way_3Bit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2Way_3Bit/BEHAVIORAL 1481798557 \
+      FL "G:/New folder/Lab9_10final/Mux_2Way_3Bit.vhf" EN work/Mux_2Way_3Bit 1481798556 \
+      CP MUX_2_to_1_MUSER_Mux_2Way_3Bit
+FL "G:/New folder/Lab9_10final/Mux_2Way_4Bit.vhf" 2016/12/08.12:45:44 P.20131013
+EN work/MUX_2_to_1_MUSER_Mux_2Way_4Bit 1481798558 \
+      FL "G:/New folder/Lab9_10final/Mux_2Way_4Bit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/MUX_2_to_1_MUSER_Mux_2Way_4Bit/BEHAVIORAL 1481798559 \
+      FL "G:/New folder/Lab9_10final/Mux_2Way_4Bit.vhf" \
+      EN work/MUX_2_to_1_MUSER_Mux_2Way_4Bit 1481798558 CP AND2 CP OR2 CP INV
+EN work/Mux_2Way_4Bit 1481798560 \
+      FL "G:/New folder/Lab9_10final/Mux_2Way_4Bit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2Way_4Bit/BEHAVIORAL 1481798561 \
+      FL "G:/New folder/Lab9_10final/Mux_2Way_4Bit.vhf" EN work/Mux_2Way_4Bit 1481798560 \
+      CP MUX_2_to_1_MUSER_Mux_2Way_4Bit
+FL "G:/New folder/Lab9_10final/MUX_2_to_1.vhf" 2016/12/08.12:45:44 P.20131013
+EN work/MUX_2_to_1 1481798602 FL "G:/New folder/Lab9_10final/MUX_2_to_1.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/MUX_2_to_1/BEHAVIORAL 1481798603 \
+      FL "G:/New folder/Lab9_10final/MUX_2_to_1.vhf" EN work/MUX_2_to_1 1481798602 \
+      CP AND2 CP OR2 CP INV
+FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" 2016/12/07.12:14:00 P.20131013
+EN work/OR8_MXILINX_Mux_8Way_4Bit 1481798562 \
+      FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/OR8_MXILINX_Mux_8Way_4Bit/BEHAVIORAL 1481798563 \
+      FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" \
+      EN work/OR8_MXILINX_Mux_8Way_4Bit 1481798562 CP FMAP CP OR2 CP OR4
+EN work/Decoder_2_to_4_MUSER_Mux_8Way_4Bit 1481798564 \
+      FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_Mux_8Way_4Bit/BEHAVIORAL 1481798565 \
+      FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" \
+      EN work/Decoder_2_to_4_MUSER_Mux_8Way_4Bit 1481798564 CP INV CP AND3
+EN work/Decoder_3_to_8_MUSER_Mux_8Way_4Bit 1481798566 \
+      FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8_MUSER_Mux_8Way_4Bit/BEHAVIORAL 1481798567 \
+      FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" \
+      EN work/Decoder_3_to_8_MUSER_Mux_8Way_4Bit 1481798566 \
+      CP Decoder_2_to_4_MUSER_Mux_8Way_4Bit CP INV CP AND2
+EN work/MUX_8_to_1_MUSER_Mux_8Way_4Bit 1481798568 \
+      FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/MUX_8_to_1_MUSER_Mux_8Way_4Bit/BEHAVIORAL 1481798569 \
+      FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" \
+      EN work/MUX_8_to_1_MUSER_Mux_8Way_4Bit 1481798568 \
+      CP Decoder_3_to_8_MUSER_Mux_8Way_4Bit CP AND2 CP OR8_MXILINX_Mux_8Way_4Bit
+EN work/Mux_8Way_4Bit 1481798570 \
+      FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_8Way_4Bit/BEHAVIORAL 1481798571 \
+      FL "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" EN work/Mux_8Way_4Bit 1481798570 \
+      CP MUX_8_to_1_MUSER_Mux_8Way_4Bit CP GND CP INV
+FL "G:/New folder/Lab9_10final/MUX_8_to_1.vhf" 2016/12/07.12:14:00 P.20131013
+EN work/OR8_MXILINX_MUX_8_to_1 1481798604 \
+      FL "G:/New folder/Lab9_10final/MUX_8_to_1.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/OR8_MXILINX_MUX_8_to_1/BEHAVIORAL 1481798605 \
+      FL "G:/New folder/Lab9_10final/MUX_8_to_1.vhf" \
+      EN work/OR8_MXILINX_MUX_8_to_1 1481798604 CP FMAP CP OR2 CP OR4
+EN work/Decoder_2_to_4_MUSER_MUX_8_to_1 1481798606 \
+      FL "G:/New folder/Lab9_10final/MUX_8_to_1.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_MUX_8_to_1/BEHAVIORAL 1481798607 \
+      FL "G:/New folder/Lab9_10final/MUX_8_to_1.vhf" \
+      EN work/Decoder_2_to_4_MUSER_MUX_8_to_1 1481798606 CP INV CP AND3
+EN work/Decoder_3_to_8_MUSER_MUX_8_to_1 1481798608 \
+      FL "G:/New folder/Lab9_10final/MUX_8_to_1.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8_MUSER_MUX_8_to_1/BEHAVIORAL 1481798609 \
+      FL "G:/New folder/Lab9_10final/MUX_8_to_1.vhf" \
+      EN work/Decoder_3_to_8_MUSER_MUX_8_to_1 1481798608 \
+      CP Decoder_2_to_4_MUSER_MUX_8_to_1 CP INV CP AND2
+EN work/MUX_8_to_1 1481798610 \
+      FL "G:/New folder/Lab9_10final/MUX_8_to_1.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/MUX_8_to_1/BEHAVIORAL 1481798611 \
+      FL "G:/New folder/Lab9_10final/MUX_8_to_1.vhf" EN work/MUX_8_to_1 1481798610 \
+      CP Decoder_3_to_8_MUSER_MUX_8_to_1 CP AND2 CP OR8_MXILINX_MUX_8_to_1
+FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" 2016/12/15.14:10:45 P.20131013
+EN work/OR8_MXILINX_NanoProcessor 1481798468 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/OR8_MXILINX_NanoProcessor/BEHAVIORAL 1481798469 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/OR8_MXILINX_NanoProcessor 1481798468 CP FMAP CP OR2 CP OR4
+EN work/Decoder_2_to_4_MUSER_NanoProcessor 1481798470 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_NanoProcessor/BEHAVIORAL 1481798471 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Decoder_2_to_4_MUSER_NanoProcessor 1481798470 CP INV CP AND3
+EN work/Decoder_3_to_8_MUSER_NanoProcessor 1481798472 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8_MUSER_NanoProcessor/BEHAVIORAL 1481798473 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Decoder_3_to_8_MUSER_NanoProcessor 1481798472 \
+      CP Decoder_2_to_4_MUSER_NanoProcessor CP INV CP AND2
+EN work/MUX_8_to_1_MUSER_NanoProcessor 1481798474 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/MUX_8_to_1_MUSER_NanoProcessor/BEHAVIORAL 1481798475 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/MUX_8_to_1_MUSER_NanoProcessor 1481798474 \
+      CP Decoder_3_to_8_MUSER_NanoProcessor CP AND2 CP OR8_MXILINX_NanoProcessor
+EN work/Mux_8Way_4Bit_MUSER_NanoProcessor 1481798476 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_8Way_4Bit_MUSER_NanoProcessor/BEHAVIORAL 1481798477 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Mux_8Way_4Bit_MUSER_NanoProcessor 1481798476 \
+      CP MUX_8_to_1_MUSER_NanoProcessor CP GND CP INV
+EN work/LUT_MUSER_NanoProcessor 1481798478 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/LUT_MUSER_NanoProcessor/BEHAVIORAL 1481798479 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/LUT_MUSER_NanoProcessor 1481798478 CP ROM16X1
+EN work/Bus_Buffer_MUSER_NanoProcessor 1481798480 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Bus_Buffer_MUSER_NanoProcessor/BEHAVIORAL 1481798481 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Bus_Buffer_MUSER_NanoProcessor 1481798480 CP BUF
+EN work/HA_MUSER_NanoProcessor 1481798482 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/HA_MUSER_NanoProcessor/BEHAVIORAL 1481798483 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/HA_MUSER_NanoProcessor 1481798482 CP XOR2 CP AND2
+EN work/FA_MUSER_NanoProcessor 1481798484 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/FA_MUSER_NanoProcessor/BEHAVIORAL 1481798485 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/FA_MUSER_NanoProcessor 1481798484 CP HA_MUSER_NanoProcessor CP OR2
+EN work/Add_3_MUSER_NanoProcessor 1481798486 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Add_3_MUSER_NanoProcessor/BEHAVIORAL 1481798487 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Add_3_MUSER_NanoProcessor 1481798486 CP FA_MUSER_NanoProcessor \
+      CP GND CP INV
+EN work/Program_counter_MUSER_NanoProcessor 1481798488 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Program_counter_MUSER_NanoProcessor/BEHAVIORAL 1481798489 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Program_counter_MUSER_NanoProcessor 1481798488 CP FDC
+EN work/ProgramRom_MUSER_NanoProcessor 1481798490 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/ProgramRom_MUSER_NanoProcessor/BEHAVIORAL 1481798491 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/ProgramRom_MUSER_NanoProcessor 1481798490 CP ROM16X1 CP GND
+EN work/reg_4bit_MUSER_NanoProcessor 1481798492 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/reg_4bit_MUSER_NanoProcessor/BEHAVIORAL 1481798493 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/reg_4bit_MUSER_NanoProcessor 1481798492 CP FDC
+EN work/regBank_MUSER_NanoProcessor 1481798494 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/regBank_MUSER_NanoProcessor/BEHAVIORAL 1481798495 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/regBank_MUSER_NanoProcessor 1481798494 \
+      CP reg_4bit_MUSER_NanoProcessor CP Decoder_3_to_8_MUSER_NanoProcessor \
+      CP AND2 CP GND
+EN work/AddSubUnit_MUSER_NanoProcessor 1481798496 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/AddSubUnit_MUSER_NanoProcessor/BEHAVIORAL 1481798497 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/AddSubUnit_MUSER_NanoProcessor 1481798496 CP FA_MUSER_NanoProcessor \
+      CP XOR2
+EN work/MUX_2_to_1_MUSER_NanoProcessor 1481798498 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/MUX_2_to_1_MUSER_NanoProcessor/BEHAVIORAL 1481798499 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/MUX_2_to_1_MUSER_NanoProcessor 1481798498 CP AND2 CP OR2 CP INV
+EN work/Mux_2Way_3Bit_MUSER_NanoProcessor 1481798500 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2Way_3Bit_MUSER_NanoProcessor/BEHAVIORAL 1481798501 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Mux_2Way_3Bit_MUSER_NanoProcessor 1481798500 \
+      CP MUX_2_to_1_MUSER_NanoProcessor
+EN work/Mux_2Way_4Bit_MUSER_NanoProcessor 1481798502 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2Way_4Bit_MUSER_NanoProcessor/BEHAVIORAL 1481798503 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Mux_2Way_4Bit_MUSER_NanoProcessor 1481798502 \
+      CP MUX_2_to_1_MUSER_NanoProcessor
+EN work/In_Out_Connector_MUSER_NanoProcessor 1481798504 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/In_Out_Connector_MUSER_NanoProcessor/BEHAVIORAL 1481798505 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/In_Out_Connector_MUSER_NanoProcessor 1481798504 CP BUF
+EN work/Bit4_Connector_MUSER_NanoProcessor 1481798506 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Bit4_Connector_MUSER_NanoProcessor/BEHAVIORAL 1481798507 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Bit4_Connector_MUSER_NanoProcessor 1481798506 CP BUF
+EN work/AND6_MXILINX_NanoProcessor 1481798508 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/AND6_MXILINX_NanoProcessor/BEHAVIORAL 1481798509 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/AND6_MXILINX_NanoProcessor 1481798508 CP AND3 CP AND4 CP FMAP
+EN work/Jump_Reg_MUSER_NanoProcessor 1481798510 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Jump_Reg_MUSER_NanoProcessor/BEHAVIORAL 1481798511 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Jump_Reg_MUSER_NanoProcessor 1481798510 \
+      CP AND6_MXILINX_NanoProcessor CP INV
+EN work/Add_Sub_Select_MUSER_NanoProcessor 1481798512 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Add_Sub_Select_MUSER_NanoProcessor/BEHAVIORAL 1481798513 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Add_Sub_Select_MUSER_NanoProcessor 1481798512 CP AND2 CP INV
+EN work/Load_Select_MUSER_NanoProcessor 1481798514 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Load_Select_MUSER_NanoProcessor/BEHAVIORAL 1481798515 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Load_Select_MUSER_NanoProcessor 1481798514 CP AND2 CP INV
+EN work/Decoder_In_MUSER_NanoProcessor 1481798516 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_In_MUSER_NanoProcessor/BEHAVIORAL 1481798517 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Decoder_In_MUSER_NanoProcessor 1481798516 CP AND2
+EN work/Instruction_Decoder_MUSER_NanoProcessor 1481798518 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Instruction_Decoder_MUSER_NanoProcessor/BEHAVIORAL 1481798519 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" \
+      EN work/Instruction_Decoder_MUSER_NanoProcessor 1481798518 \
+      CP Decoder_In_MUSER_NanoProcessor CP Load_Select_MUSER_NanoProcessor \
+      CP Add_Sub_Select_MUSER_NanoProcessor CP Jump_Reg_MUSER_NanoProcessor \
+      CP In_Out_Connector_MUSER_NanoProcessor \
+      CP Bit4_Connector_MUSER_NanoProcessor
+EN work/NanoProcessor 1481798520 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/NanoProcessor/BEHAVIORAL 1481798521 \
+      FL "G:/New folder/Lab9_10final/NanoProcessor.vhf" EN work/NanoProcessor 1481798520 \
+      CP Instruction_Decoder_MUSER_NanoProcessor \
+      CP Mux_2Way_4Bit_MUSER_NanoProcessor CP Mux_2Way_3Bit_MUSER_NanoProcessor \
+      CP Mux_8Way_4Bit_MUSER_NanoProcessor CP AddSubUnit_MUSER_NanoProcessor \
+      CP regBank_MUSER_NanoProcessor CP ProgramRom_MUSER_NanoProcessor \
+      CP Program_counter_MUSER_NanoProcessor CP Add_3_MUSER_NanoProcessor CP INV \
+      CP LUT_MUSER_NanoProcessor CP Bus_Buffer_MUSER_NanoProcessor CP VCC CP BUF
+FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" 2016/12/15.00:23:01 P.20131013
+EN work/Bus_Buffer_MUSER_NanoSevenSeg 1481741632 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Bus_Buffer_MUSER_NanoSevenSeg/BEHAVIORAL 1481741633 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Bus_Buffer_MUSER_NanoSevenSeg 1481741632 CP BUF
+EN work/HA_MUSER_NanoSevenSeg 1481741634 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/HA_MUSER_NanoSevenSeg/BEHAVIORAL 1481741635 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/HA_MUSER_NanoSevenSeg 1481741634 CP XOR2 CP AND2
+EN work/FA_MUSER_NanoSevenSeg 1481741636 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/FA_MUSER_NanoSevenSeg/BEHAVIORAL 1481741637 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/FA_MUSER_NanoSevenSeg 1481741636 CP HA_MUSER_NanoSevenSeg CP OR2
+EN work/Add_3_MUSER_NanoSevenSeg 1481741638 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Add_3_MUSER_NanoSevenSeg/BEHAVIORAL 1481741639 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Add_3_MUSER_NanoSevenSeg 1481741638 CP FA_MUSER_NanoSevenSeg CP GND \
+      CP INV
+EN work/Program_counter_MUSER_NanoSevenSeg 1481741640 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Program_counter_MUSER_NanoSevenSeg/BEHAVIORAL 1481741641 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Program_counter_MUSER_NanoSevenSeg 1481741640 CP FDC
+EN work/ProgramRom_MUSER_NanoSevenSeg 1481741642 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/ProgramRom_MUSER_NanoSevenSeg/BEHAVIORAL 1481741643 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/ProgramRom_MUSER_NanoSevenSeg 1481741642 CP ROM16X1 CP GND
+EN work/Decoder_2_to_4_MUSER_NanoSevenSeg 1481741644 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_NanoSevenSeg/BEHAVIORAL 1481741645 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Decoder_2_to_4_MUSER_NanoSevenSeg 1481741644 CP INV CP AND3
+EN work/Decoder_3_to_8_MUSER_NanoSevenSeg 1481741646 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8_MUSER_NanoSevenSeg/BEHAVIORAL 1481741647 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Decoder_3_to_8_MUSER_NanoSevenSeg 1481741646 \
+      CP Decoder_2_to_4_MUSER_NanoSevenSeg CP INV CP AND2
+EN work/reg_4bit_MUSER_NanoSevenSeg 1481741648 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/reg_4bit_MUSER_NanoSevenSeg/BEHAVIORAL 1481741649 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/reg_4bit_MUSER_NanoSevenSeg 1481741648 CP FDC
+EN work/regBank_MUSER_NanoSevenSeg 1481741650 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/regBank_MUSER_NanoSevenSeg/BEHAVIORAL 1481741651 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/regBank_MUSER_NanoSevenSeg 1481741650 \
+      CP reg_4bit_MUSER_NanoSevenSeg CP Decoder_3_to_8_MUSER_NanoSevenSeg CP AND2 \
+      CP GND
+EN work/AddSubUnit_MUSER_NanoSevenSeg 1481741652 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/AddSubUnit_MUSER_NanoSevenSeg/BEHAVIORAL 1481741653 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/AddSubUnit_MUSER_NanoSevenSeg 1481741652 CP FA_MUSER_NanoSevenSeg \
+      CP XOR2
+EN work/OR8_MXILINX_NanoSevenSeg 1481741654 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/OR8_MXILINX_NanoSevenSeg/BEHAVIORAL 1481741655 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/OR8_MXILINX_NanoSevenSeg 1481741654 CP FMAP CP OR2 CP OR4
+EN work/MUX_8_to_1_MUSER_NanoSevenSeg 1481741656 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/MUX_8_to_1_MUSER_NanoSevenSeg/BEHAVIORAL 1481741657 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/MUX_8_to_1_MUSER_NanoSevenSeg 1481741656 \
+      CP Decoder_3_to_8_MUSER_NanoSevenSeg CP AND2 CP OR8_MXILINX_NanoSevenSeg
+EN work/Mux_8Way_4Bit_MUSER_NanoSevenSeg 1481741658 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_8Way_4Bit_MUSER_NanoSevenSeg/BEHAVIORAL 1481741659 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Mux_8Way_4Bit_MUSER_NanoSevenSeg 1481741658 \
+      CP MUX_8_to_1_MUSER_NanoSevenSeg CP GND CP INV
+EN work/MUX_2_to_1_MUSER_NanoSevenSeg 1481741660 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/MUX_2_to_1_MUSER_NanoSevenSeg/BEHAVIORAL 1481741661 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/MUX_2_to_1_MUSER_NanoSevenSeg 1481741660 CP AND2 CP OR2 CP INV
+EN work/Mux_2Way_3Bit_MUSER_NanoSevenSeg 1481741662 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2Way_3Bit_MUSER_NanoSevenSeg/BEHAVIORAL 1481741663 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Mux_2Way_3Bit_MUSER_NanoSevenSeg 1481741662 \
+      CP MUX_2_to_1_MUSER_NanoSevenSeg
+EN work/Mux_2Way_4Bit_MUSER_NanoSevenSeg 1481741664 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Mux_2Way_4Bit_MUSER_NanoSevenSeg/BEHAVIORAL 1481741665 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Mux_2Way_4Bit_MUSER_NanoSevenSeg 1481741664 \
+      CP MUX_2_to_1_MUSER_NanoSevenSeg
+EN work/In_Out_Connector_MUSER_NanoSevenSeg 1481741666 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/In_Out_Connector_MUSER_NanoSevenSeg/BEHAVIORAL 1481741667 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/In_Out_Connector_MUSER_NanoSevenSeg 1481741666 CP BUF
+EN work/Bit4_Connector_MUSER_NanoSevenSeg 1481741668 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Bit4_Connector_MUSER_NanoSevenSeg/BEHAVIORAL 1481741669 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Bit4_Connector_MUSER_NanoSevenSeg 1481741668 CP BUF
+EN work/AND6_MXILINX_NanoSevenSeg 1481741670 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/AND6_MXILINX_NanoSevenSeg/BEHAVIORAL 1481741671 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/AND6_MXILINX_NanoSevenSeg 1481741670 CP AND3 CP AND4 CP FMAP
+EN work/Jump_Reg_MUSER_NanoSevenSeg 1481741672 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Jump_Reg_MUSER_NanoSevenSeg/BEHAVIORAL 1481741673 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Jump_Reg_MUSER_NanoSevenSeg 1481741672 CP AND6_MXILINX_NanoSevenSeg \
+      CP INV
+EN work/Add_Sub_Select_MUSER_NanoSevenSeg 1481741674 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Add_Sub_Select_MUSER_NanoSevenSeg/BEHAVIORAL 1481741675 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Add_Sub_Select_MUSER_NanoSevenSeg 1481741674 CP AND2 CP INV
+EN work/Load_Select_MUSER_NanoSevenSeg 1481741676 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Load_Select_MUSER_NanoSevenSeg/BEHAVIORAL 1481741677 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Load_Select_MUSER_NanoSevenSeg 1481741676 CP AND2 CP INV
+EN work/Decoder_In_MUSER_NanoSevenSeg 1481741678 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_In_MUSER_NanoSevenSeg/BEHAVIORAL 1481741679 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Decoder_In_MUSER_NanoSevenSeg 1481741678 CP AND2
+EN work/Instruction_Decoder_MUSER_NanoSevenSeg 1481741680 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Instruction_Decoder_MUSER_NanoSevenSeg/BEHAVIORAL 1481741681 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/Instruction_Decoder_MUSER_NanoSevenSeg 1481741680 \
+      CP Decoder_In_MUSER_NanoSevenSeg CP Load_Select_MUSER_NanoSevenSeg \
+      CP Add_Sub_Select_MUSER_NanoSevenSeg CP Jump_Reg_MUSER_NanoSevenSeg \
+      CP In_Out_Connector_MUSER_NanoSevenSeg CP Bit4_Connector_MUSER_NanoSevenSeg
+EN work/NanoProcessor_MUSER_NanoSevenSeg 1481741682 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/NanoProcessor_MUSER_NanoSevenSeg/BEHAVIORAL 1481741683 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" \
+      EN work/NanoProcessor_MUSER_NanoSevenSeg 1481741682 \
+      CP Instruction_Decoder_MUSER_NanoSevenSeg \
+      CP Mux_2Way_4Bit_MUSER_NanoSevenSeg CP Mux_2Way_3Bit_MUSER_NanoSevenSeg \
+      CP Mux_8Way_4Bit_MUSER_NanoSevenSeg CP AddSubUnit_MUSER_NanoSevenSeg \
+      CP regBank_MUSER_NanoSevenSeg CP ProgramRom_MUSER_NanoSevenSeg \
+      CP Program_counter_MUSER_NanoSevenSeg CP Add_3_MUSER_NanoSevenSeg CP INV
+EN work/NanoSevenSeg 1481741684 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/NanoSevenSeg/BEHAVIORAL 1481741685 \
+      FL "G:/New folder/Lab9_10final/NanoSevenSeg.vhf" EN work/NanoSevenSeg 1481741684 \
+      CP NanoProcessor_MUSER_NanoSevenSeg CP Bus_Buffer_MUSER_NanoSevenSeg
+FL "G:/New folder/Lab9_10final/ProgramRom.vhf" 2016/12/15.12:04:10 P.20131013
+EN work/ProgramRom 1481798572 FL "G:/New folder/Lab9_10final/ProgramRom.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/ProgramRom/BEHAVIORAL 1481798573 \
+      FL "G:/New folder/Lab9_10final/ProgramRom.vhf" EN work/ProgramRom 1481798572 \
+      CP ROM16X1 CP GND
+FL "G:/New folder/Lab9_10final/Program_counter.vhf" 2016/12/12.23:47:03 P.20131013
+EN work/Program_counter 1481798574 \
+      FL "G:/New folder/Lab9_10final/Program_counter.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Program_counter/BEHAVIORAL 1481798575 \
+      FL "G:/New folder/Lab9_10final/Program_counter.vhf" EN work/Program_counter 1481798574 \
+      CP FDC
+FL "G:/New folder/Lab9_10final/regBank.vhf" 2016/12/08.14:21:22 P.20131013
+EN work/Decoder_2_to_4_MUSER_regBank 1481798576 \
+      FL "G:/New folder/Lab9_10final/regBank.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_2_to_4_MUSER_regBank/BEHAVIORAL 1481798577 \
+      FL "G:/New folder/Lab9_10final/regBank.vhf" \
+      EN work/Decoder_2_to_4_MUSER_regBank 1481798576 CP INV CP AND3
+EN work/Decoder_3_to_8_MUSER_regBank 1481798578 \
+      FL "G:/New folder/Lab9_10final/regBank.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/Decoder_3_to_8_MUSER_regBank/BEHAVIORAL 1481798579 \
+      FL "G:/New folder/Lab9_10final/regBank.vhf" \
+      EN work/Decoder_3_to_8_MUSER_regBank 1481798578 \
+      CP Decoder_2_to_4_MUSER_regBank CP INV CP AND2
+EN work/reg_4bit_MUSER_regBank 1481798580 \
+      FL "G:/New folder/Lab9_10final/regBank.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/reg_4bit_MUSER_regBank/BEHAVIORAL 1481798581 \
+      FL "G:/New folder/Lab9_10final/regBank.vhf" EN work/reg_4bit_MUSER_regBank 1481798580 \
+      CP FDC
+EN work/regBank 1481798582 \
+      FL "G:/New folder/Lab9_10final/regBank.vhf" PB ieee/std_logic_1164 1381692176 \
+      PB ieee/NUMERIC_STD 1381692181 LB UNISIM PH unisim/VCOMPONENTS 1381692182
+AR work/regBank/BEHAVIORAL 1481798583 \
+      FL "G:/New folder/Lab9_10final/regBank.vhf" EN work/regBank 1481798582 \
+      CP reg_4bit_MUSER_regBank CP Decoder_3_to_8_MUSER_regBank CP AND2 CP GND
+FL "G:/New folder/Lab9_10final/reg_4bit.vhf" 2016/12/08.14:00:04 P.20131013
+EN work/reg_4bit 1481798612 FL "G:/New folder/Lab9_10final/reg_4bit.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/reg_4bit/BEHAVIORAL 1481798613 \
+      FL "G:/New folder/Lab9_10final/reg_4bit.vhf" EN work/reg_4bit 1481798612 \
+      CP FDC

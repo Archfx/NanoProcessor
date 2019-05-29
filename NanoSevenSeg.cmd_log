@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "G:/New folder/Lab9_10final/NanoSevenSeg.xst" -ofn "G:/New folder/Lab9_10final/NanoSevenSeg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 "NanoSevenSeg.ngc" NanoSevenSeg.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o NanoSevenSeg_map.ncd NanoSevenSeg.ngd NanoSevenSeg.pcf 
+xst -intstyle ise -ifn "G:/New folder/Lab9_10final/NanoSevenSeg.xst" -ofn "G:/New folder/Lab9_10final/NanoSevenSeg.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 "NanoSevenSeg.ngc" NanoSevenSeg.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o NanoSevenSeg_map.ncd NanoSevenSeg.ngd NanoSevenSeg.pcf 

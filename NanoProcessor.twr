@@ -1,0 +1,195 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 4
+-n 3 -fastpaths -xml NanoProcessor.twx NanoProcessor.ncd -o NanoProcessor.twr
+NanoProcessor.pcf -ucf pinas.ucf
+
+Design file:              NanoProcessor.ncd
+Physical constraint file: NanoProcessor.pcf
+Device,package,speed:     xc3s100e,cp132,-4 (PRODUCTION 1.27 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+INFO:Timing:3390 - This architecture does not support a default System Jitter 
+   value, please add SYSTEM_JITTER constraint to the UCF to modify the Clock 
+   Uncertainty calculation.
+INFO:Timing:3389 - This architecture does not support 'Discrete Jitter' and 
+   'Phase Error' calculations, these terms will be zero in the Clock 
+   Uncertainty calculation.  Please make appropriate modification to 
+   SYSTEM_JITTER to account for the unsupported Discrete Jitter and Phase 
+   Error.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Clock CLK to Pad
+------------+------------+------------------+--------+
+            | clk (edge) |                  | Clock  |
+Destination |   to PAD   |Internal Clock(s) | Phase  |
+------------+------------+------------------+--------+
+A           |   20.631(R)|XLXI_12/XLXN_2    |   0.000|
+            |   18.684(R)|XLXI_12/XLXN_3    |   0.000|
+            |   20.251(R)|XLXI_12/XLXN_4    |   0.000|
+            |   20.284(R)|XLXI_12/XLXN_5    |   0.000|
+            |   20.022(R)|XLXI_12/XLXN_6    |   0.000|
+            |   19.570(R)|XLXI_12/XLXN_7    |   0.000|
+            |   20.106(R)|XLXI_12/XLXN_8    |   0.000|
+B           |   21.132(R)|XLXI_12/XLXN_2    |   0.000|
+            |   19.150(R)|XLXI_12/XLXN_3    |   0.000|
+            |   20.717(R)|XLXI_12/XLXN_4    |   0.000|
+            |   20.750(R)|XLXI_12/XLXN_5    |   0.000|
+            |   20.488(R)|XLXI_12/XLXN_6    |   0.000|
+            |   20.036(R)|XLXI_12/XLXN_7    |   0.000|
+            |   20.572(R)|XLXI_12/XLXN_8    |   0.000|
+C           |   20.895(R)|XLXI_12/XLXN_2    |   0.000|
+            |   18.896(R)|XLXI_12/XLXN_3    |   0.000|
+            |   20.217(R)|XLXI_12/XLXN_4    |   0.000|
+            |   20.843(R)|XLXI_12/XLXN_5    |   0.000|
+            |   21.045(R)|XLXI_12/XLXN_6    |   0.000|
+            |   20.005(R)|XLXI_12/XLXN_7    |   0.000|
+            |   20.205(R)|XLXI_12/XLXN_8    |   0.000|
+C_Out       |   20.097(R)|CLK_IBUF          |   0.000|
+            |   21.703(R)|XLXI_12/XLXN_2    |   0.000|
+            |   19.812(R)|XLXI_12/XLXN_3    |   0.000|
+            |   21.408(R)|XLXI_12/XLXN_4    |   0.000|
+            |   21.903(R)|XLXI_12/XLXN_5    |   0.000|
+            |   21.589(R)|XLXI_12/XLXN_6    |   0.000|
+            |   21.112(R)|XLXI_12/XLXN_7    |   0.000|
+            |   21.266(R)|XLXI_12/XLXN_8    |   0.000|
+Carry       |    8.965(R)|CLK_IBUF          |   0.000|
+D           |   20.322(R)|XLXI_12/XLXN_2    |   0.000|
+            |   18.263(R)|XLXI_12/XLXN_3    |   0.000|
+            |   19.584(R)|XLXI_12/XLXN_4    |   0.000|
+            |   20.210(R)|XLXI_12/XLXN_5    |   0.000|
+            |   20.412(R)|XLXI_12/XLXN_6    |   0.000|
+            |   19.372(R)|XLXI_12/XLXN_7    |   0.000|
+            |   19.572(R)|XLXI_12/XLXN_8    |   0.000|
+E           |   21.125(R)|XLXI_12/XLXN_2    |   0.000|
+            |   19.296(R)|XLXI_12/XLXN_3    |   0.000|
+            |   20.863(R)|XLXI_12/XLXN_4    |   0.000|
+            |   20.896(R)|XLXI_12/XLXN_5    |   0.000|
+            |   20.634(R)|XLXI_12/XLXN_6    |   0.000|
+            |   20.182(R)|XLXI_12/XLXN_7    |   0.000|
+            |   20.718(R)|XLXI_12/XLXN_8    |   0.000|
+F           |   20.823(R)|XLXI_12/XLXN_2    |   0.000|
+            |   18.950(R)|XLXI_12/XLXN_3    |   0.000|
+            |   20.517(R)|XLXI_12/XLXN_4    |   0.000|
+            |   20.550(R)|XLXI_12/XLXN_5    |   0.000|
+            |   20.288(R)|XLXI_12/XLXN_6    |   0.000|
+            |   19.836(R)|XLXI_12/XLXN_7    |   0.000|
+            |   20.372(R)|XLXI_12/XLXN_8    |   0.000|
+G           |   20.482(R)|XLXI_12/XLXN_2    |   0.000|
+            |   18.766(R)|XLXI_12/XLXN_3    |   0.000|
+            |   20.333(R)|XLXI_12/XLXN_4    |   0.000|
+            |   20.366(R)|XLXI_12/XLXN_5    |   0.000|
+            |   20.104(R)|XLXI_12/XLXN_6    |   0.000|
+            |   19.652(R)|XLXI_12/XLXN_7    |   0.000|
+            |   20.188(R)|XLXI_12/XLXN_8    |   0.000|
+XLXN_136<0> |   17.713(R)|XLXI_12/XLXN_2    |   0.000|
+            |   16.304(R)|XLXI_12/XLXN_3    |   0.000|
+            |   17.243(R)|XLXI_12/XLXN_4    |   0.000|
+            |   17.624(R)|XLXI_12/XLXN_5    |   0.000|
+            |   17.362(R)|XLXI_12/XLXN_6    |   0.000|
+            |   16.974(R)|XLXI_12/XLXN_7    |   0.000|
+            |   17.382(R)|XLXI_12/XLXN_8    |   0.000|
+XLXN_136<1> |   18.390(R)|XLXI_12/XLXN_2    |   0.000|
+            |   16.135(R)|XLXI_12/XLXN_3    |   0.000|
+            |   17.229(R)|XLXI_12/XLXN_4    |   0.000|
+            |   17.431(R)|XLXI_12/XLXN_5    |   0.000|
+            |   17.202(R)|XLXI_12/XLXN_6    |   0.000|
+            |   16.316(R)|XLXI_12/XLXN_7    |   0.000|
+            |   16.815(R)|XLXI_12/XLXN_8    |   0.000|
+XLXN_136<2> |   16.769(R)|XLXI_12/XLXN_2    |   0.000|
+            |   16.083(R)|XLXI_12/XLXN_3    |   0.000|
+            |   17.427(R)|XLXI_12/XLXN_4    |   0.000|
+            |   18.053(R)|XLXI_12/XLXN_5    |   0.000|
+            |   18.255(R)|XLXI_12/XLXN_6    |   0.000|
+            |   17.215(R)|XLXI_12/XLXN_7    |   0.000|
+            |   17.415(R)|XLXI_12/XLXN_8    |   0.000|
+XLXN_136<3> |   19.442(R)|XLXI_12/XLXN_2    |   0.000|
+            |   17.301(R)|XLXI_12/XLXN_3    |   0.000|
+            |   18.910(R)|XLXI_12/XLXN_4    |   0.000|
+            |   18.625(R)|XLXI_12/XLXN_5    |   0.000|
+            |   17.728(R)|XLXI_12/XLXN_6    |   0.000|
+            |   17.747(R)|XLXI_12/XLXN_7    |   0.000|
+            |   18.094(R)|XLXI_12/XLXN_8    |   0.000|
+------------+------------+------------------+--------+
+
+Clock to Setup on destination clock CLK
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+CLK            |   13.569|   10.438|         |         |
+---------------+---------+---------+---------+---------+
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+CLK            |C_Out          |   17.355|
+Q              |A              |   13.776|
+Q              |B              |   14.217|
+Q              |C              |   14.497|
+Q              |D              |   13.864|
+Q              |E              |   14.359|
+Q              |F              |   14.057|
+Q              |G              |   13.730|
+Q              |XLXN_136<0>    |   11.268|
+Q              |XLXN_136<1>    |   11.626|
+Q              |XLXN_136<2>    |   11.707|
+Q              |XLXN_136<3>    |   12.116|
+R              |A              |   13.314|
+R              |B              |   13.780|
+R              |C              |   14.207|
+R              |D              |   13.574|
+R              |E              |   13.926|
+R              |F              |   13.580|
+R              |G              |   13.396|
+R              |XLXN_136<0>    |   10.934|
+R              |XLXN_136<1>    |   10.891|
+R              |XLXN_136<2>    |   11.417|
+R              |XLXN_136<3>    |   11.707|
+W              |A              |   14.298|
+W              |B              |   14.764|
+W              |C              |   15.195|
+W              |D              |   14.562|
+W              |E              |   14.910|
+W              |F              |   14.564|
+W              |G              |   14.380|
+W              |XLXN_136<0>    |   11.918|
+W              |XLXN_136<1>    |   11.738|
+W              |XLXN_136<2>    |   12.405|
+W              |XLXN_136<3>    |   12.576|
+---------------+---------------+---------+
+
+
+Analysis completed Thu Dec 15 14:28:00 2016 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 176 MB
+
+
+

@@ -1,0 +1,29 @@
+NET "CLR" LOC = "C11";
+NET "CLR1" LOC = "M4";
+#NET "X2" LOC = "K3";
+#NET "X3" LOC = "B4";
+#NET "RegSel" LOC = "N3";
+NET "CLK" LOC = "A7";
+NET "A" LOC = "L14";
+NET "B" LOC = "H12";
+NET "C" LOC = "N14";
+NET "D" LOC = "N11";
+NET "E" LOC = "P12";
+NET "F" LOC = "L13";
+NET "G" LOC = "M12";
+#NET "C_out" LOC = "P4";
+#NET "Z" LOC = "G1";
+NET "S1" LOC = "K14";
+NET "S2" LOC = "J12";
+NET "S3" LOC = "M13";
+NET "Q" LOC = "P11";
+NET "W" LOC = "L3";
+NET "R" LOC = "K3";
+#Created by Constraints Editor (xc3s100e-cp132-4) - 2016/12/11
+#NET "CLK" TNM_NET = CLK;
+#TIMESPEC TS_CLK = PERIOD "CLK" 80 ns LOW 50%;
+#NET "clk2" TNM_NET = clk2;
+#Created by Constraints Editor (xc3s100e-cp132-4) - 2016/12/13
+#NET "count_0_OBUF" TNM_NET = count_0_OBUF;
+#TIMESPEC TS_count_0_OBUF = PERIOD "count_0_OBUF" 100 ns HIGH 50%;
+NET "CLK" CLOCK_DEDICATED_ROUTE = FALSE;

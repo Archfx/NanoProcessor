@@ -1,0 +1,2 @@
+vhdl isim_temp "Program_counter.vhf"
+vhdl isim_temp "pctest.vhd"

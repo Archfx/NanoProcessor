@@ -1,0 +1,3 @@
+vhdl work "HA.vhf"
+vhdl work "FA.vhf"
+vhdl work "AddSubUnit.vhf"

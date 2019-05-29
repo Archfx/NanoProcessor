@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "G:/New folder/Lab9_10final/NanoProcessor_NanoProcessor_sch_tb_isim_beh.exe" -prj "G:/New folder/Lab9_10final/NanoProcessor_NanoProcessor_sch_tb_beh.prj" "work.NanoProcessor_NanoProcessor_sch_tb" 

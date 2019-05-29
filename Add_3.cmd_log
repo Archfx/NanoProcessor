@@ -1,0 +1,11 @@
+xst -intstyle ise -ifn "C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Add_3.xst" -ofn "C:/Users/SachinKahawala/Desktop/Desk/Lab9_10/Add_3.syr" 
+xst -intstyle ise -ifn "G:/New folder/Final_nano/Lab9_10/Add_3.xst" -ofn "G:/New folder/Final_nano/Lab9_10/Add_3.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 "Add_3.ngc" Add_3.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Add_3_map.ncd Add_3.ngd Add_3.pcf 
+par -w -intstyle ise -ol high -t 1 Add_3_map.ncd Add_3.ncd Add_3.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Add_3.twx Add_3.ncd -o Add_3.twr Add_3.pcf 
+xst -intstyle ise -ifn "G:/New folder/Final_nano/Lab9_10/Add_3.xst" -ofn "G:/New folder/Final_nano/Lab9_10/Add_3.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s100e-cp132-4 "Add_3.ngc" Add_3.ngd  
+map -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o Add_3_map.ncd Add_3.ngd Add_3.pcf 
+par -w -intstyle ise -ol high -t 1 Add_3_map.ncd Add_3.ncd Add_3.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Add_3.twx Add_3.ncd -o Add_3.twr Add_3.pcf 

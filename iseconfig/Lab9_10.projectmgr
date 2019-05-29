@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Lab9_10" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/AddSubUnit C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|AddSubUnit.sch</ClosedNode>
+         <ClosedNode>/Add_3 C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Add_3.sch</ClosedNode>
+         <ClosedNode>/Decoder_3_to_8 C:|Documents and Settings|150284T|Desktop|Lab9_10|Decoder_3_to_8.sch</ClosedNode>
+         <ClosedNode>/Mux_2Way_3Bit C:|Documents and Settings|150284T|Desktop|Desk|Lab9_10|Mux_2Way_3Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_2Way_3Bit C:|Documents and Settings|150284T|Desktop|Lab9_10|Mux_2Way_3Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_2Way_3Bit C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Mux_2Way_3Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_2Way_4Bit C:|Documents and Settings|150284T|Desktop|Desk|Lab9_10|Mux_2Way_4Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_2Way_4Bit C:|Documents and Settings|150284T|Desktop|Lab9_10|Mux_2Way_4Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_2Way_4Bit C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Mux_2Way_4Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_8Way_4Bit C:|Documents and Settings|150284T|Desktop|Desk|Lab9_10|Mux_8Way_4Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_8Way_4Bit C:|Documents and Settings|150284T|Desktop|Lab9_10|Mux_8Way_4Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_8Way_4Bit C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Mux_8Way_4Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_8Way_4Bit_Mux_8Way_4Bit_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Mux8_4Final.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessor.sch/XLXI_1 - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessor.sch/XLXI_10 - Add_3</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessor.sch/XLXI_12 - regBank</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessor.sch/XLXI_14 - Add_3</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessor.sch/XLXI_2 - Mux_2Way_4Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessor.sch/XLXI_3 - Mux_2Way_3Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessor.sch/XLXI_5 - Mux_8Way_4Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessor.sch/XLXI_6 - Mux_8Way_4Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessor.sch/XLXI_7 - AddSubUnit</ClosedNode>
+         <ClosedNode>/NanoProcessor G:|New folder|Lab9_10final|NanoProcessor.sch/XLXI_1 - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/NanoProcessor G:|New folder|Lab9_10final|NanoProcessor.sch/XLXI_12 - regBank</ClosedNode>
+         <ClosedNode>/NanoProcessor G:|New folder|Lab9_10final|NanoProcessor.sch/XLXI_2 - Mux_2Way_4Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor G:|New folder|Lab9_10final|NanoProcessor.sch/XLXI_3 - Mux_2Way_3Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor G:|New folder|Lab9_10final|NanoProcessor.sch/XLXI_30 - Add_3</ClosedNode>
+         <ClosedNode>/NanoProcessor G:|New folder|Lab9_10final|NanoProcessor.sch/XLXI_5 - Mux_8Way_4Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor G:|New folder|Lab9_10final|NanoProcessor.sch/XLXI_6 - Mux_8Way_4Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor G:|New folder|Lab9_10final|NanoProcessor.sch/XLXI_7 - AddSubUnit</ClosedNode>
+         <ClosedNode>/NanoProcessor G:|New folder|Lab9_10final|NanoProcessor.sch/XLXI_90 - Mux_8Way_4Bit</ClosedNode>
+         <ClosedNode>/NanoSevenSeg G:|New folder|Lab9_10final|NanoSevenSeg.sch/XLXI_1 - NanoProcessor</ClosedNode>
+         <ClosedNode>/Register_Bank C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Register_Bank.sch</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>NanoProcessor (G:/New folder/Lab9_10final/NanoProcessor.sch)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000179000000020000000000000000000000000200000064ffffffff000000810000000300000002000001790000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>NanoProcessor (G:/New folder/Lab9_10final/NanoProcessor.sch)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001c5000000010000000100000000000000000000000064ffffffff000000810000000000000001000001c50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000001b4000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000000e80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Decoder_2_to_4.sch</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000001c5000000010001000100000000000000000000000064ffffffff000000810000000000000001000001c50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001b4000000010000000100000000000000000000000064ffffffff000000810000000000000001000001b40000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000000b60000000001000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/AddSubUnit C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|AddSubUnit.sch</ClosedNode>
+         <ClosedNode>/AddSubUnit_AddSubUnit_sch_tb - behavioral G:|New folder|Lab9_10final|addsubcheck.vhd</ClosedNode>
+         <ClosedNode>/Add_3 C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Add_3.sch</ClosedNode>
+         <ClosedNode>/Add_3_Add_3_sch_tb - behavioral G:|New folder|Lab9_10final|add3check.vhd</ClosedNode>
+         <ClosedNode>/Mux_2Way_3Bit C:|Documents and Settings|150284T|Desktop|Desk|Lab9_10|Mux_2Way_3Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_2Way_3Bit C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Mux_2Way_3Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_2Way_4Bit C:|Documents and Settings|150284T|Desktop|Desk|Lab9_10|Mux_2Way_4Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_2Way_4Bit C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Mux_2Way_4Bit.sch</ClosedNode>
+         <ClosedNode>/Mux_8Way_4Bit_Mux_8Way_4Bit_sch_tb - behavioral C:|Documents and Settings|150284T|Desktop|Desk|Lab9_10|Mux8_4.vhd</ClosedNode>
+         <ClosedNode>/Mux_8Way_4Bit_Mux_8Way_4Bit_sch_tb - behavioral C:|Documents and Settings|150284T|Desktop|Desk|Lab9_10|Mux8_4Final.vhd</ClosedNode>
+         <ClosedNode>/Mux_8Way_4Bit_Mux_8Way_4Bit_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Mux8_4Final.vhd</ClosedNode>
+         <ClosedNode>/Mux_8Way_4Bit_Mux_8Way_4Bit_sch_tb - behavioral G:|New folder|Lab9_10final|Mux8_4Final.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessor.sch</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Latest.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NP.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NP2.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoPro.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorFinal.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorFinal.vhd/UUT - NanoProcessor/XLXI_1 - Instruction_Decoder</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorFinal.vhd/UUT - NanoProcessor/XLXI_12 - regBank</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorFinal.vhd/UUT - NanoProcessor/XLXI_14 - Add_3</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorFinal.vhd/UUT - NanoProcessor/XLXI_2 - Mux_2Way_4Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorFinal.vhd/UUT - NanoProcessor/XLXI_3 - Mux_2Way_3Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorFinal.vhd/UUT - NanoProcessor/XLXI_5 - Mux_8Way_4Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorFinal.vhd/UUT - NanoProcessor/XLXI_6 - Mux_8Way_4Bit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorFinal.vhd/UUT - NanoProcessor/XLXI_7 - AddSubUnit</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorTest.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NanoProcessorTest.vhd/UUT - NanoProcessor</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|Np123.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral G:|New folder|Lab9_10final|NanoPro.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral G:|New folder|Lab9_10final|Nanop.vhd</ClosedNode>
+         <ClosedNode>/NanoProcessor_NanoProcessor_sch_tb - behavioral G:|New folder|Lab9_10final|np.vhd</ClosedNode>
+         <ClosedNode>/NanoSevenSeg G:|New folder|Lab9_10final|NanoSevenSeg.sch/XLXI_1 - NanoProcessor</ClosedNode>
+         <ClosedNode>/Program_counter_Program_counter_sch_tb - behavioral G:|New folder|Lab9_10final|pctest.vhd</ClosedNode>
+         <ClosedNode>/testbench - behavior C:|Users|SachinKahawala|Desktop|Desk|Lab9_10|NP1.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>NanoProcessor_NanoProcessor_sch_tb - behavioral (G:/New folder/Lab9_10final/npo.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001b9000000020000000000000000000000000200000064ffffffff000000810000000300000002000001b90000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>NanoProcessor_NanoProcessor_sch_tb - behavioral (G:/New folder/Lab9_10final/npo.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001c5000000010000000100000000000000000000000064ffffffff000000810000000000000001000001c50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ISim Simulator</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001c5000000010000000100000000000000000000000064ffffffff000000810000000000000001000001c50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ISim Simulator</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001c5000000010000000100000000000000000000000064ffffffff000000810000000000000001000001c50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001c5000000010000000100000000000000000000000064ffffffff000000810000000000000001000001c50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>

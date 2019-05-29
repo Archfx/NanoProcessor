@@ -1,0 +1,28 @@
+Command line:
+   NanoProcessor_NanoProcessor_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50140
+
+Thu Dec 15 14:15:38 2016
+
+
+ Elaboration Time: 0.171875 sec
+
+ Current Memory Usage: 858.743 Meg
+
+ Total Signals          : 3393
+ Total Nets             : 650
+ Total Signal Drivers   : 607
+ Total Blocks           : 720
+ Total Primitive Blocks : 596
+ Total Processes        : 602
+ Total Traceable Variables  : 179
+ Total Scalar Nets and Variables : 5706
+
+ Total Simulation Time: 0.21875 sec
+
+ Current Memory Usage: 701.456 Meg
+
+Thu Dec 15 14:16:45 2016
+

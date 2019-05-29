@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "G:/New folder/Final_nano/Lab9_10/Program_counter.xst" -ofn "G:/New folder/Final_nano/Lab9_10/Program_counter.syr" 
+xst -intstyle ise -ifn "G:/New folder/Final_nano/Lab9_10/Program_counter.xst" -ofn "G:/New folder/Final_nano/Lab9_10/Program_counter.syr" 

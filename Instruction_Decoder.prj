@@ -1,0 +1,7 @@
+vhdl work "Load_Select.vhf"
+vhdl work "Jump_Reg.vhf"
+vhdl work "In_Out_Connector.vhf"
+vhdl work "Decoder_In.vhf"
+vhdl work "Bit4_Connector.vhf"
+vhdl work "Add_Sub_Select.vhf"
+vhdl work "Instruction_Decoder.vhf"

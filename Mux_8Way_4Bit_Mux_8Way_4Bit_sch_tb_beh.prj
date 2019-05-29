@@ -1,0 +1,5 @@
+vhdl work "Decoder_2_to_4.vhf"
+vhdl work "Decoder_3_to_8.vhf"
+vhdl work "MUX_8_to_1.vhf"
+vhdl work "Mux_8Way_4Bit.vhf"
+vhdl work "Mux8_4Final.vhd"

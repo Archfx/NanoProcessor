@@ -1,0 +1,89 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o G:/New folder/Lab9_10final/NanoProcessor_NanoProcessor_sch_tb_isim_beh.exe -prj G:/New folder/Lab9_10final/NanoProcessor_NanoProcessor_sch_tb_beh.prj work.NanoProcessor_NanoProcessor_sch_tb 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "G:/New folder/Lab9_10final/Decoder_2_to_4.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/HA.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Decoder_3_to_8.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/reg_4bit.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/MUX_8_to_1.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/MUX_2_to_1.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Load_Select.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Jump_Reg.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/In_Out_Connector.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/FA.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Decoder_In.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Bit4_Connector.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Add_Sub_Select.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/regBank.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Program_counter.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/ProgramRom.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Mux_8Way_4Bit.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Mux_2Way_4Bit.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Mux_2Way_3Bit.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/LUT.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Instruction_Decoder.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Bus_Buffer.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/Add_3.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/AddSubUnit.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/NanoProcessor.vhf" into library work
+Parsing VHDL file "G:/New folder/Lab9_10final/npo.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture behavioral of entity Decoder_In_MUSER_NanoProcessor [decoder_in_muser_nanoprocessor_d...]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture behavioral of entity Load_Select_MUSER_NanoProcessor [load_select_muser_nanoprocessor_...]
+Compiling architecture behavioral of entity Add_Sub_Select_MUSER_NanoProcessor [add_sub_select_muser_nanoprocess...]
+Compiling architecture and3_v of entity AND3 [and3_default]
+Compiling architecture and4_v of entity AND4 [and4_default]
+Compiling architecture fmap_v of entity FMAP [fmap_default]
+Compiling architecture behavioral of entity AND6_MXILINX_NanoProcessor [and6_mxilinx_nanoprocessor_defau...]
+Compiling architecture behavioral of entity Jump_Reg_MUSER_NanoProcessor [jump_reg_muser_nanoprocessor_def...]
+Compiling architecture buf_v of entity BUF [buf_default]
+Compiling architecture behavioral of entity In_Out_Connector_MUSER_NanoProcessor [in_out_connector_muser_nanoproce...]
+Compiling architecture behavioral of entity Bit4_Connector_MUSER_NanoProcessor [bit4_connector_muser_nanoprocess...]
+Compiling architecture behavioral of entity Instruction_Decoder_MUSER_NanoProcessor [instruction_decoder_muser_nanopr...]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture behavioral of entity MUX_2_to_1_MUSER_NanoProcessor [mux_2_to_1_muser_nanoprocessor_d...]
+Compiling architecture behavioral of entity Mux_2Way_4Bit_MUSER_NanoProcessor [mux_2way_4bit_muser_nanoprocesso...]
+Compiling architecture behavioral of entity Mux_2Way_3Bit_MUSER_NanoProcessor [mux_2way_3bit_muser_nanoprocesso...]
+Compiling architecture behavioral of entity Decoder_2_to_4_MUSER_NanoProcessor [decoder_2_to_4_muser_nanoprocess...]
+Compiling architecture behavioral of entity Decoder_3_to_8_MUSER_NanoProcessor [decoder_3_to_8_muser_nanoprocess...]
+Compiling architecture or4_v of entity OR4 [or4_default]
+Compiling architecture behavioral of entity OR8_MXILINX_NanoProcessor [or8_mxilinx_nanoprocessor_defaul...]
+Compiling architecture behavioral of entity MUX_8_to_1_MUSER_NanoProcessor [mux_8_to_1_muser_nanoprocessor_d...]
+Compiling architecture gnd_v of entity GND [gnd_default]
+Compiling architecture behavioral of entity Mux_8Way_4Bit_MUSER_NanoProcessor [mux_8way_4bit_muser_nanoprocesso...]
+Compiling architecture xor2_v of entity XOR2 [xor2_default]
+Compiling architecture behavioral of entity HA_MUSER_NanoProcessor [ha_muser_nanoprocessor_default]
+Compiling architecture behavioral of entity FA_MUSER_NanoProcessor [fa_muser_nanoprocessor_default]
+Compiling architecture behavioral of entity AddSubUnit_MUSER_NanoProcessor [addsubunit_muser_nanoprocessor_d...]
+Compiling architecture fdc_v of entity FDC [\FDC('0')\]
+Compiling architecture behavioral of entity reg_4bit_MUSER_NanoProcessor [reg_4bit_muser_nanoprocessor_def...]
+Compiling architecture behavioral of entity regBank_MUSER_NanoProcessor [regbank_muser_nanoprocessor_defa...]
+Compiling package textio
+Compiling package vital_timing
+Compiling package vital_primitives
+Compiling package vpkg
+Compiling architecture rom16x1_v of entity ROM16X1 [\ROM16X1("0000000001100011")(0,1...]
+Compiling architecture behavioral of entity ProgramRom_MUSER_NanoProcessor [programrom_muser_nanoprocessor_d...]
+Compiling architecture behavioral of entity Program_counter_MUSER_NanoProcessor [program_counter_muser_nanoproces...]
+Compiling architecture behavioral of entity Add_3_MUSER_NanoProcessor [add_3_muser_nanoprocessor_defaul...]
+Compiling architecture behavioral of entity LUT_MUSER_NanoProcessor [lut_muser_nanoprocessor_default]
+Compiling architecture behavioral of entity Bus_Buffer_MUSER_NanoProcessor [bus_buffer_muser_nanoprocessor_d...]
+Compiling architecture vcc_v of entity VCC [vcc_default]
+Compiling architecture behavioral of entity NanoProcessor [nanoprocessor_default]
+Compiling architecture behavioral of entity nanoprocessor_nanoprocessor_sch_...
+Time Resolution for simulation is 1ps.
+Waiting for 41 sub-compilation(s) to finish...
+WARNING:Simulator - Unable to copy libPortabilityNOSH.dll to the simulation executable directory: boost::filesystem::copy_file: The system cannot find the path specified, "isim\NanoProcessor_NanoProcessor_sch_tb_isim_beh.exe.sim\libPortability.dll".
+Compiled 121 VHDL Units
+Built simulation executable G:/New folder/Lab9_10final/NanoProcessor_NanoProcessor_sch_tb_isim_beh.exe
+Fuse Memory Usage: 62612 KB
+Fuse CPU Usage: 2093 ms

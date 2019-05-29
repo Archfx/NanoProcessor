@@ -1,0 +1,4 @@
+vhdl isim_temp "HA.vhf"
+vhdl isim_temp "FA.vhf"
+vhdl isim_temp "Add_3.vhf"
+vhdl isim_temp "add3check.vhd"

@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Tue Dec 13 01:08:29 2016
+# Process ID: 8612
+# Log file: G:/New folder/Lab9_10/planAhead_run_1/planAhead.log
+# Journal file: G:/New folder/Lab9_10/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {G:/New folder/Lab9_10/pa.fromNetlist.tcl}
